@@ -1,31 +1,108 @@
-# Hi 👋 I'm Pushpendra Shakyawar
+# Hi there 👋, I'm Pushpendra Shakyawar
 
-## Java Full Stack Developer
+## Java Backend Developer | Technical Lead | Spring Boot Enthusiast
 
-💻 Skills
+I am a passionate Java Backend Developer with 5+ years of experience in designing and developing scalable enterprise applications.
+
+I enjoy solving complex backend challenges, designing REST APIs, improving application performance, and mentoring development teams.
+
+---
+
+## 🚀 About Me
+
+- 💼 Technical Lead
+- ☕ Java Backend Developer
+- 🌱 Currently learning Microservices, Docker, Kubernetes & AWS
+- 💡 Interested in System Design and Cloud Technologies
+- 🤝 Open to collaborating on Java Open Source Projects
+- 📍 India
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
 - Java
+- SQL
+- JavaScript
+
+### Backend
+
 - Spring Boot
+- Spring MVC
 - Spring Security
 - Hibernate
+- JPA
+- REST API
+
+### Database
+
 - MySQL
-- REST APIs
+- PostgreSQL
+
+### Frontend
+
+- HTML
+- CSS
 - JavaScript
 - jQuery
 - Thymeleaf
-- React Native
-- Microservices
 
-## Currently Learning
+### Tools
+
+- Git
+- GitHub
+- Maven
 - Docker
-- Kubernetes
-- AWS
-- Redis, Kafka
+- IntelliJ IDEA
+- Eclipse
+- Postman
 
-## Projects
--  Enterprise Resource Planning (ERP)
--  Enterprise Chat Messenger, 
--  Enterprise E-Wallet Platform, 
--  HRMS
+---
 
-## Reach Me
-LinkedIn:
+## 📌 Projects
+
+### HRMS
+
+Enterprise Human Resource Management System
+
+Features
+
+- Attendance
+- Leave Management
+- Payroll
+- Employee Management
+- Recruitment
+- Reports
+
+Tech Stack
+
+Java • Spring Boot • Hibernate • MySQL • REST API
+
+---
+
+### Visitor Management System
+
+Visitor Entry & Approval System
+
+Tech Stack
+
+Java • Spring Boot • MySQL
+
+---
+
+## 📈 GitHub Stats
+
+(Automatically displayed using GitHub Readme Stats)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Email
+
+---
+
+⭐ If you like my projects, consider giving them a star.
