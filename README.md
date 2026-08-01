@@ -92,16 +92,9 @@ Java • Spring Boot • MySQL
 
 ---
 
-## 📈 GitHub Stats
-
-(Automatically displayed using GitHub Readme Stats)
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn
-- Email
 
 ---
 
