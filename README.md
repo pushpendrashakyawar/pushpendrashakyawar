@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Pushpendra Shakyawar
 
-<!--
-**pushpendrashakyawar/pushpendrashakyawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Full Stack Developer
 
-Here are some ideas to get you started:
+💻 Skills
+- Java
+- Spring Boot
+- Spring Security
+- Hibernate
+- MySQL
+- REST APIs
+- JavaScript
+- jQuery
+- Thymeleaf
+- React Native
+- Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Docker
+- Kubernetes
+- AWS
+- Redis, Kafka
+
+## Projects
+-  Enterprise Resource Planning (ERP)
+-  Enterprise Chat Messenger, 
+-  Enterprise E-Wallet Platform, 
+-  HRMS
+
+## Reach Me
+LinkedIn:
